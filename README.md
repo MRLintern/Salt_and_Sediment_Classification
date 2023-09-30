@@ -54,7 +54,7 @@ There are several areas of the world where there are vast quantities of salt in 
 ### Computational Struggles.
 
 As mentioned, this project is computationally demanding on the CPU, given that the number of epochs used is 25.
-However, you can get some free GPUs which will help speed this project up! Visits Google's [Colab](https://colab.research.google.com/).
+However, you can get some free GPUs which will help speed this project up! Visit Google's [Colab](https://colab.research.google.com/).
 
 
 
