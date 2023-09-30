@@ -24,7 +24,7 @@ The dataset can also be downloaded by using the `kaggle API`.
 <br>
 The data is a set of images chosen at various locations chosen at random in the subsurface. The images are 101 x 101 pixels and each pixel is classified as either salt or sediment. In addition to the seismic images, the depth of the imaged location is provided for each image.
 <br />
-<br>
+
 
 #### Basic Overview of Seismic Data Exploration ####
 
@@ -34,7 +34,6 @@ A seismic image is produced from imaging the reflection coming from rock boundar
 
 There are several areas of the world where there are vast quantities of salt in the subsurface. One of the challenges of seismic imaging is to identify the part of subsurface which is salt. Salt has characteristics that makes it both simple and hard to identify. Salt density is usually 2.14 g/cc which is lower than most surrounding rocks. The seismic velocity of salt is 4.5 km/sec, which is usually faster than its surrounding rocks. This difference creates a sharp reflection at the salt-sediment interface. Usually salt is an amorphous rock without much internal structure. This means that there is typically not much reflectivity inside the salt, unless there are sediments trapped inside it. The unusually high seismic velocity of salt can create problems with seismic imaging.
 
-<br />
 
 ### Requirements
 
